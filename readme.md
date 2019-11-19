@@ -1,0 +1,1 @@
+#this is simple template of hamburger menu in JS
